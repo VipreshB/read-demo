@@ -1,2 +1,2 @@
 # read-demo
-Athor Vipresh Bisen
+Author Vipresh Bisen
